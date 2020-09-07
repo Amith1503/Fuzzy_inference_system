@@ -7,8 +7,8 @@ these measurements, create a fuzzy inferencing system to decide the Speed and St
 ![Screenshot](screenshot.png)
 
 
-In your design, please consider the following preliminary behavior as a guide. Note that the system’s
-behavior is not limited to these actions but must include them:
+Considering the following preliminary behavior as a guide.
+
 1) When an obstacle is detected, avoid it: does not matter which direction; left or right
 2) When there is no obstacle move forward Speed is reduced when turning away from an obstacle
 3) Speed is increased when cruising (when there is no obstacle)
